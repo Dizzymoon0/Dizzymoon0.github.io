@@ -5,10 +5,14 @@ Official Hollis LIRR website
 <body bgcolor="#99ddff">
 <head>
 <link href="https://fonts.googleapis.com/css?family=Eczar" rel="stylesheet">
+	
 <div class="topnav" id="myTopnav">
 <style>
+	
   .topnav {
-    background-color: #3399ff;
+   
+   background-color: #3399ff;
+    
     overflow: hidden;
 }
 .topnav a {
